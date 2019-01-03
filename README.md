@@ -13,7 +13,7 @@ Continuous Control Task
 
 #### Final Result :
 - Final Reward-Episode Plot  :<br>
-![Final Reward-Episode Plot](reward_plot.png)
+<img src="https://github.com/rajaashok/Quadcopter/blob/master/rewards_plot.png">
 
 
 ## Project Instructions
